@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html body {
+    background-color: #222222;
+}
+
+#myClock02 {
+    margin: 100px auto;
+    width: 700px;
+    height: 700px;
+    background-color: #fff;
+}
+
